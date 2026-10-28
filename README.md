@@ -1,4 +1,4 @@
-# Keratoconus Image Classification with Deep Learning
+# Keratoconus  Classification with Deep Learning
 
 A TensorFlow/Keras computer-vision project exploring three-class classification of corneal images: **Keratoconus**, **Normal**, and **Suspect**.
 
